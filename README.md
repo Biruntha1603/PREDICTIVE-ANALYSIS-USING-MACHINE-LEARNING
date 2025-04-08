@@ -25,9 +25,9 @@ This project outlines the steps involved in:
 1.Data Collection: Collect a labeled dataset of emails, distinguishing between spam and ham messages.​
 
 2.Data Preprocessing:Performing essential data cleaning tasks
-      *Label datas(ham and spam)
-      *Check missing values
-      *Drop missing values
+         *Label datas(ham and spam)
+         *Check missing values
+         *Drop missing values
 
 3.Feature Extraction: Convert text into numerical features using label encoding.
 
