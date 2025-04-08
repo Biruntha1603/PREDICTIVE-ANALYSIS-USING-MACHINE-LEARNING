@@ -15,7 +15,7 @@ DESCRIPTION:
 This repository demonstrate a workflow for analysing predictive classification using machine learning.
       
 IDLE:Visual Studio Code,Jupyter Note Book
-TOOLS USED:
+TOOLS USED:Numpy,Pandas,Matplotlib,Scikit learn
 DATASET SOURCE:Kaggle
 
 OVERVIEW:
